@@ -23,7 +23,7 @@ cat <<EOF > /var/www/html/index.html
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Class 6.5</title>
+  <title>We want jobs</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://storage.googleapis.com/a-dream/verve.jpg');
+      background-image: url('https://www.andbeyond.com/wp-content/uploads/sites/5/giraffe-and-sky-line-nairobi.jpg');
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,9 +56,9 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://giphy.com/embed/1sv8rIfAtyMsqsqDt8"
-              width="500"
-              height="270"
+      <iframe src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB2OGJybWZ3eWJxYTRseDZjZnV2dW5qZTk2MHdvNTZ1emY5ZDR4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jQ4FsavAujbMFbYfDz/giphy.gif"
+              width="278"
+              height="480"
               style="border-radius:10px;"
               frameBorder="0"
               class="giphy-embed"
@@ -77,6 +77,8 @@ cat <<EOF > /var/www/html/index.html
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
       <h1>My Compute Instance Information</h1>
       <h3></h3>
+      <p><strong>watashinonamwah Dae Britt</strong></p>
+      <p>Group Leader Whalid</p>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
       <p><b>Zone: </b> $zone</p>
