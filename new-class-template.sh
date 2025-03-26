@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB2OGJybWZ3eWJxYTRseDZjZnV2dW5qZTk2MHdvNTZ1emY5ZDR4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jQ4FsavAujbMFbYfDz/giphy.gif"
+      <iframe src="https://giphy.com/embed/jQ4FsavAujbMFbYfDz" width="276" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jQ4FsavAujbMFbYfDz">via GIPHY</a></p>
               width="278"
               height="480"
               style="border-radius:10px;"
