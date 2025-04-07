@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://giphy.com/embed/h9pancyNtLmZ3PAwyW" width="268" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/black-girl-shining-braids-h9pancyNtLmZ3PAwyW">via GIPHY</a></p>
+      <iframe src="https://giphy.com/embed/jQ4FsavAujbMFbYfDz" width="276" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jQ4FsavAujbMFbYfDz">via GIPHY</a></p>
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
       <h3 class="w3-large w3-center" style="margin-top:15px;">
