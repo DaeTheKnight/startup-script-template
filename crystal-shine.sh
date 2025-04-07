@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://images.stockcake.com/public/9/1/a/91acde9e-2fe9-4654-bd8a-51b0bd1b158a/crystal-sunset-fantasy-stockcake.jpg');
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/44/A_giraffe_with_a_beautiful_background_of_Nairobi_City_Skyline.jpg');
       min-height: 100%;
       background-position: center;
       background-size: cover;
